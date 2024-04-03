@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+.sidebar{
+    padding: 15px;
+    height: 1000px;
+    width: 18%;
+    background-color: #a7cf94;
+}
+
+.sidebar a{
+    text-align: center;
+}
